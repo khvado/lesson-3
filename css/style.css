@@ -1,0 +1,141 @@
+.title_color {
+	color: red;
+}
+
+.h2-color {
+	color: blue;
+	font-size: 22px;
+}
+
+.information-color {
+	color: gray;
+}
+
+.information-positon{
+    text-align: left;
+    margin-top: 10px;
+}
+
+.d-block {
+	display: inline-block;
+}
+
+.logo img {
+	width: 100px;
+	vertical-align: middle;
+	margin-right: 30px;
+}
+
+
+.navigation-li {
+	margin-right: 15px;
+}
+
+.navigation-a {
+ 	color: black;
+ 	font-size: 18px;
+ }
+
+.date {
+	background-color: #1B1BBC;
+	font-size: 40px;
+	color: #ffffff;
+	display: inline-block;
+	padding: 6px;
+	margin-top: 10px;
+}
+
+ .month {
+ 	color: #1B1BBC;
+ 	font-size: 18px;
+ 	margin-top: 10px;
+ }
+
+ .container {
+ 	margin-left: 23px;
+ }
+
+ .text {
+    width: 800px;
+ }
+
+ .image {
+ 	width: 255px;
+ 	vertical-align: top;
+ 	margin-right: 30px;
+ }
+
+ .satauri {
+    margin: 15px 0;
+ }
+
+ .article-height {
+ 	margin-top: 30px;
+ }
+
+ .icons {
+ 	height: 30px;
+ }
+
+ .divider {
+ 	height: 30px;
+ 	width: 3px;
+ 	background: #3D58A6;
+ 	margin: 0 15px;
+ }
+
+.footer-margin {
+	margin-top: 20px;
+}
+
+
+.banner_img {
+	width: 1200px;
+	padding: 50px;
+}
+
+.finger_img {
+	width: 100px;
+	margin-right: 10px;
+	vertical-align: top;
+}
+
+.phone_img {
+	width: 100px;
+	height: 91px;
+	margin-right: 10px;
+	vertical-align: top;
+}
+
+.box_1 {
+	width: 1170px;
+	margin-left: 47px;
+}
+
+.title_1 {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.title_2 {
+	margin-bottom: 10px;
+	color: #3B5BA4;
+	font-size: 17px;
+}
+
+.wrapper-box {
+	width: 540px;
+	background-color: #F2F2F2;
+	padding: 10px;
+	margin-right: 20px;
+	vertical-align: top;
+}
+
+.text_1 {
+	width: 355px;
+}
+
+.contact_position {
+	margin-top: 60px;
+	margin-left: 100px;
+}
